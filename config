@@ -1,0 +1,189 @@
+{
+  "web_port": 9000,
+  "web_token": "",
+  "enable_ping": false,
+
+  "relay_configs": [
+    {
+      "listen": "127.0.0.1:13001",
+      "listen_type": "raw",
+      "transport_type": "raw",
+      "tcp_remotes": ["user3.cocloud.club:13001"],
+      "udp_remotes": ["user3.cocloud.club:13001"]
+    },
+    {
+      "listen": "127.0.0.1:13002",
+      "listen_type": "raw",
+      "transport_type": "raw",
+      "tcp_remotes": ["user3-2.cocloud.club:13002"],
+      "udp_remotes": ["user3-2.cocloud.club:13002"]
+    },
+    {
+      "listen": "127.0.0.1:13003",
+      "listen_type": "raw",
+      "transport_type": "raw",
+      "tcp_remotes": ["user3-3.cocloud.club:13003"],
+      "udp_remotes": ["user3-3.cocloud.club:13003"]
+    },
+    {
+      "listen": "127.0.0.1:13004",
+      "listen_type": "raw",
+      "transport_type": "raw",
+      "tcp_remotes": ["user3-4.cocloud.club:13004],
+      "udp_remotes": ["user3-4.cocloud.club:13004]
+    },
+    {
+      "listen": "127.0.0.1:13005,
+      "listen_type": "raw",
+      "transport_type": "raw",
+      "tcp_remotes": ["user3-5.cocloud.club:13005"],
+      "udp_remotes": ["user3-5.cocloud.club:13005"]
+    },
+    {
+      "listen": "127.0.0.1:13006",
+      "listen_type": "raw",
+      "transport_type": "raw",
+      "tcp_remotes": ["user3-6.cocloud.club:13006"],
+      "udp_remotes": ["user3-6.cocloud.club:13006"]
+    },
+    {
+      "listen": "127.0.0.1:13007",
+      "listen_type": "raw",
+      "transport_type": "raw",
+      "tcp_remotes": ["user3-7.cocloud.club:13007"],
+      "udp_remotes": ["user3-7.cocloud.club:13007"]
+    },{
+      "listen": "127.0.0.1:13001",
+      "listen_type": "raw",
+      "transport_type": "raw",
+      "tcp_remotes": ["user3.cocloud.club:13001"],
+      "udp_remotes": ["user3.cocloud.club:13001"]
+    },{
+      "listen": "127.0.0.1:13001",
+      "listen_type": "raw",
+      "transport_type": "raw",
+      "tcp_remotes": ["user3.cocloud.club:13001"],
+      "udp_remotes": ["user3.cocloud.club:13001"]
+    },{
+      "listen": "127.0.0.1:13001",
+      "listen_type": "raw",
+      "transport_type": "raw",
+      "tcp_remotes": ["user3.cocloud.club:13001"],
+      "udp_remotes": ["user3.cocloud.club:13001"]
+    },{
+      "listen": "127.0.0.1:13001",
+      "listen_type": "raw",
+      "transport_type": "raw",
+      "tcp_remotes": ["user3.cocloud.club:13001"],
+      "udp_remotes": ["user3.cocloud.club:13001"]
+    },
+    {
+      "listen": "127.0.0.1:13001",
+      "listen_type": "raw",
+      "transport_type": "raw",
+      "tcp_remotes": ["user3.cocloud.club:13001"],
+      "udp_remotes": ["user3.cocloud.club:13001"]
+    },
+    {
+      "listen": "127.0.0.1:13001",
+      "listen_type": "raw",
+      "transport_type": "raw",
+      "tcp_remotes": ["user3.cocloud.club:13001"],
+      "udp_remotes": ["user3.cocloud.club:13001"]
+    },{
+      "listen": "127.0.0.1:13001",
+      "listen_type": "raw",
+      "transport_type": "raw",
+      "tcp_remotes": ["user3.cocloud.club:13001"],
+      "udp_remotes": ["user3.cocloud.club:13001"]
+    },{
+      "listen": "127.0.0.1:13001",
+      "listen_type": "raw",
+      "transport_type": "raw",
+      "tcp_remotes": ["user3.cocloud.club:13001"],
+      "udp_remotes": ["user3.cocloud.club:13001"]
+    },{
+      "listen": "127.0.0.1:13001",
+      "listen_type": "raw",
+      "transport_type": "raw",
+      "tcp_remotes": ["user3.cocloud.club:13001"],
+      "udp_remotes": ["user3.cocloud.club:13001"]
+    },{
+      "listen": "127.0.0.1:13001",
+      "listen_type": "raw",
+      "transport_type": "raw",
+      "tcp_remotes": ["user3.cocloud.club:13001"],
+      "udp_remotes": ["user3.cocloud.club:13001"]
+    },{
+      "listen": "127.0.0.1:13001",
+      "listen_type": "raw",
+      "transport_type": "raw",
+      "tcp_remotes": ["user3.cocloud.club:13001"],
+      "udp_remotes": ["user3.cocloud.club:13001"]
+    },{
+      "listen": "127.0.0.1:13001",
+      "listen_type": "raw",
+      "transport_type": "raw",
+      "tcp_remotes": ["user3.cocloud.club:13001"],
+      "udp_remotes": ["user3.cocloud.club:13001"]
+    },{
+      "listen": "127.0.0.1:13001",
+      "listen_type": "raw",
+      "transport_type": "raw",
+      "tcp_remotes": ["user3.cocloud.club:13001"],
+      "udp_remotes": ["user3.cocloud.club:13001"]
+    },{
+      "listen": "127.0.0.1:13001",
+      "listen_type": "raw",
+      "transport_type": "raw",
+      "tcp_remotes": ["user3.cocloud.club:13001"],
+      "udp_remotes": ["user3.cocloud.club:13001"]
+    },{
+      "listen": "127.0.0.1:13001",
+      "listen_type": "raw",
+      "transport_type": "raw",
+      "tcp_remotes": ["user3.cocloud.club:13001"],
+      "udp_remotes": ["user3.cocloud.club:13001"]
+    },{
+      "listen": "127.0.0.1:13001",
+      "listen_type": "raw",
+      "transport_type": "raw",
+      "tcp_remotes": ["user3.cocloud.club:13001"],
+      "udp_remotes": ["user3.cocloud.club:13001"]
+    },
+    {
+      "listen": "127.0.0.1:13001",
+      "listen_type": "raw",
+      "transport_type": "raw",
+      "tcp_remotes": ["user3.cocloud.club:13001"],
+      "udp_remotes": ["user3.cocloud.club:13001"]
+    },
+    {
+      "listen": "127.0.0.1:13001",
+      "listen_type": "raw",
+      "transport_type": "raw",
+      "tcp_remotes": ["user3.cocloud.club:13001"],
+      "udp_remotes": ["user3.cocloud.club:13001"]
+    },{
+      "listen": "127.0.0.1:13001",
+      "listen_type": "raw",
+      "transport_type": "raw",
+      "tcp_remotes": ["user3.cocloud.club:13001"],
+      "udp_remotes": ["user3.cocloud.club:13001"]
+    },{
+      "listen": "127.0.0.1:13001",
+      "listen_type": "raw",
+      "transport_type": "raw",
+      "tcp_remotes": ["user3.cocloud.club:13001"],
+      "udp_remotes": ["user3.cocloud.club:13001"]
+    },{
+      "listen": "127.0.0.1:13001",
+      "listen_type": "raw",
+      "transport_type": "raw",
+      "tcp_remotes": ["user3.cocloud.club:13001"],
+      "udp_remotes": ["user3.cocloud.club:13001"]
+    },
+    
+   
+  ]
+}
